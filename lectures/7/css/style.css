@@ -1,6 +1,17 @@
 #main {
     /* add CSS here */
+    text-align:center;
 }
 .pet {
+    margin-top: 10px;
     /* add CSS here */
+    border-radius: 50px;
+    border: medium dashed #fa0054;
+    box-shadow: 0px 0px 25px;
+}
+p{
+    font-family: 'Spicy Rice', cursive;
+}
+div>img:hover{
+    cursor:pointer;
 }
